@@ -58,7 +58,7 @@ Airbnb_Clone/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Airbnb_Clone.git
+git clone https://github.com/palmiyani/Airbnb_Clone.git
 cd Airbnb_Clone
 ```
 
