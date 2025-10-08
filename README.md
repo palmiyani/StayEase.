@@ -116,9 +116,3 @@ _Add your app screenshots here (Home Page, Booking Page, etc.)_
 
 ---
 
-## 🪪 License
-
-This project is licensed under the **MIT License**.  
-You’re free to use, modify, and distribute it with attribution.
-
----
