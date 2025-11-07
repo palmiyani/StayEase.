@@ -1,6 +1,6 @@
-# 🏡 Airbnb Clone
+# 🏡 StayEase
 
-A **Full-Stack Airbnb Clone** web application that allows users to explore, book, and manage vacation rentals just like Airbnb.  
+A **Full-Stack StayEase** web application that allows users to explore, book, and manage vacation rentals just like StayEase.  
 Built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** with a modern and responsive UI.
 
 ---
@@ -32,7 +32,7 @@ Built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** with a m
 ## 📁 Project Structure
 
 ```
-Airbnb_Clone/
+StayEase/
 │
 ├── backend/               # Node.js + Express API
 │   ├── models/            # Mongoose schemas
